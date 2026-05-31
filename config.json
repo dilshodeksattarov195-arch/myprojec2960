@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperupdate",
+        "uuid": 5369440,
+        "checksum": "7qi289"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
